@@ -1,7 +1,7 @@
 # Mishra-2021
 ## The plastid-localised pseudo-protease FtsHi3 of Arabidopsis thaliana influences plant growth and tolerance to abiotic stress
 
-*Laxmi S. Mishra, Sanatkumar Mishra, Daniel Caddell, Devin Coleman-Derrc, and Christiane Funk**
+*Laxmi S. Mishra, Sanatkumar Mishra, Daniel Caddell, Devin Coleman-Derr, and Christiane Funk**
 
 Link to final publication:
 
