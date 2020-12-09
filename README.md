@@ -10,4 +10,4 @@ Included in this repository are...
 + merged-feature-table.biom - an unfiltered ASV table created via QIIME2 and DADA2
 + metadata-ftshi3.txt - a table of metadata associated with samples
 
-Raw sequence files have been uploaded to NCBI under BioProject PRJNA658104 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA669866)
+Raw sequence files have been uploaded to NCBI under BioProject PRJNA669866 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA669866)
